@@ -21,11 +21,23 @@ Description: Create a static website hosted on Amazon S3. Create a simple portfo
 
 Tech Stack
 
-During this internship, I'll be working with the following technologies:
-
 1.S3 Bucket
 2.Cloud Front
 3.Code Pipeline
+
+Week 2:
+Task: Deploying Web Application on EC2.
+Description: Deploy a web application on an Amazon EC2 instance using an appropriate programming language and web framework. Implementation: Set up an EC2 instance, install 
+             necessary software, configure security groups, and deploy the web application code. Use Elastic IP for a static IP address and Elastic Load Balancer for load 
+             balancing if required
+
+Tech Stack
+
+1.Ec2
+2.VPC
+3.ELB
+4.ASG
+
 
 Connect with Me
 
